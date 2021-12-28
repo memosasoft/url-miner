@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Serial_communication
+https://en.wikipedia.org/wiki/Telecommunication
+https://en.wikipedia.org/wiki/Transmission_medium
+https://en.wikipedia.org/wiki/Ethernet
+https://en.wikipedia.org/wiki/Internet_Protocol
